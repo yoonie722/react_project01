@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yoonie722/github.io/react_project01/static/css/main.299a9307.chunk.css",
+    "main.js": "/yoonie722/github.io/react_project01/static/js/main.86bb9ac4.chunk.js",
+    "main.js.map": "/yoonie722/github.io/react_project01/static/js/main.86bb9ac4.chunk.js.map",
+    "runtime-main.js": "/yoonie722/github.io/react_project01/static/js/runtime-main.2208305b.js",
+    "runtime-main.js.map": "/yoonie722/github.io/react_project01/static/js/runtime-main.2208305b.js.map",
+    "static/js/2.c71acd40.chunk.js": "/yoonie722/github.io/react_project01/static/js/2.c71acd40.chunk.js",
+    "static/js/2.c71acd40.chunk.js.map": "/yoonie722/github.io/react_project01/static/js/2.c71acd40.chunk.js.map",
+    "index.html": "/yoonie722/github.io/react_project01/index.html",
+    "static/css/main.299a9307.chunk.css.map": "/yoonie722/github.io/react_project01/static/css/main.299a9307.chunk.css.map",
+    "static/js/2.c71acd40.chunk.js.LICENSE.txt": "/yoonie722/github.io/react_project01/static/js/2.c71acd40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2208305b.js",
+    "static/js/2.c71acd40.chunk.js",
+    "static/css/main.299a9307.chunk.css",
+    "static/js/main.86bb9ac4.chunk.js"
+  ]
+}
