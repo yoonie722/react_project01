@@ -164,7 +164,7 @@ ul, li { list-style: none; }
 .movie_poster { margin-right: 1rem; position: relative; left: 2rem; top: -5rem; box-shadow: 0 7px 14px 0px #909090; align-self: flex-start; }
 .movie_poster img { width: 150px;}
 .movie_contents { margin: 2rem 2rem 2rem 4rem; }
-.movie_tit { font-size: 2rem; font-weight: 500; margin-bottom: 1rem; display: inline-block; }
+.movie_title { font-size: 2rem; font-weight: 500; margin-bottom: 1rem; display: inline-block; }
 .movie_year { font-size: 1.4rem; display: inline-block; margin-left: 1rem; color: #b1b1b1; }
 .movie_genres { display: table; }
 .movie_genres .genres_list { display: table-cell; font-size: 1.4rem; color: #b1b1b1; }
