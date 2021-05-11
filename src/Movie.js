@@ -6,7 +6,7 @@ function Component(e) {
 	if(e.length > 280) {
 		return <span>{e.slice(0, 180)}...</span>
 	} else {
-		return <span>{e}</span>;
+		return <span>{e}</span>
 	}
 }
 
