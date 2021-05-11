@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -10,8 +8,7 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+//<App /> 은 컴포넌트(component)이다.
+//컴포넌트는 html을 반환하는 함수다.
+//javscript와 html 사이의 이러한 조합을 JSX라고 한다.
+//jsx라는 것은 React에서만 쓰이는 유일한 개념이다.
