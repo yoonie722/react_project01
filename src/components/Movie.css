@@ -158,9 +158,9 @@ ul, li { list-style: none; }
 .loader { width: 100%; display: flex; justify-content: center; margin-top: 50%; }
 .loader_text { font-size: 4rem; }
 .loader_text { color: #000; } 
-.movies_container { display: flex; flex-wrap: wrap; width: 90%
-	; margin: 10rem auto 0; justify-content: space-between; } 
-.movie_list { margin-bottom: 10rem; display: flex; flex-basis: 48%; background: #fff; box-shadow: 4px 4px 14px 0px #cacaca; } 
+.movies_container { display: flex; flex-wrap: wrap; width: 90%; margin: 10rem auto 0; justify-content: space-between; } 
+.movies_container > a {margin-bottom: 10rem; display: flex; flex-basis: 48%; background: #fff; box-shadow: 4px 4px 14px 0px #cacaca; } 
+.movie_list { display: flex;} 
 .movie_poster { margin-right: 1rem; position: relative; left: 2rem; top: -5rem; box-shadow: 0 7px 14px 0px #909090; align-self: flex-start; }
 .movie_poster img { width: 150px;}
 .movie_contents { margin: 2rem 2rem 2rem 4rem; }

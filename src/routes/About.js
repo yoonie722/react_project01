@@ -1,10 +1,12 @@
 import React from "react";
+import "./Home.css"
 
-function About() {
+function About(props) {
+	
+	console.log(props);
 	return (
-		<div>
+		<div className="about_cont">
 			<p>About 페이지 입니다.</p>
-			<p>영화 웹서비스 만들기 공부 중입니다.</p>
 		</div>
 	)
 }
