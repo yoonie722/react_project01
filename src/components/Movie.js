@@ -20,7 +20,7 @@ function Movie({id, year, title, summary, poster, genres}){
 				title: title,
 				summary: summary,
 				poster: poster,
-				genres:genres
+				genres: genres
 			}
 		}}>
 			<div className="movie_list">
